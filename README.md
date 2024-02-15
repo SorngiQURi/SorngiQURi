@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/https://www.facebook.com/msorng.saiydala.la/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/msorng.saiydala.la/" height="30" width="40" /></a>
 <a href="https://instagram.com/p_i_c_4_e_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_i_c_4_e_1" height="30" width="40" /></a>
-<a href="https://medium.com/@m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m" height="30" width="40" /></a>
-<a href="https://discord.gg/M'Sorng Jordan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="M'Sorng Jordan" height="30" width="40" /></a>
+<a href="https://medium.com/@msorngjordan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@msorngjordan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
