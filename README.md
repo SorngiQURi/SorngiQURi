@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @SorngiQURi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Sorng iQURi</h1>
+<h3 align="center">🔥 Junior Mobile Application Developer 🚀</h3>
 
-<!---
-SorngiQURi/SorngiQURi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on [Mobile Application Development Department](https://iquritech.com/)
+
+- 🌱 I’m currently learning **Flutter MVVM Pattern - Rest API NODEJS - GETX POVIDER**
+
+- 🛸 My Private Github Account [Look at my workmanship](https://github.com/Johnniemor)
+
+- 🚀 My Articales [Look at my articles on Medium](https://medium.com/@msorngjordan)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/p_i_c_4_e_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_i_c_4_e_1" height="30" width="40" /></a>
+<a href="https://medium.com/@m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m" height="30" width="40" /></a>
+<a href="https://discord.gg/M'Sorng Jordan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="M'Sorng Jordan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/2221222001813 (BCEL-ONE) "> <img align="left" src="[https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png](https://scontent.fvte1-2.fna.fbcdn.net/v/t39.30808-6/407699041_1333968507235545_3650965651878536950_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=524774&_nc_eui2=AeHnasgzo5lAk9hNupZLhUfztZqyWyFcbOe1mrJbIVxs5zkTtsygM2W08AKDeIzdl9oV3CkR7h8KMlz2mgH28P-I&_nc_ohc=ZFHpYg_wTSwAX9QqARx&_nc_ht=scontent.fvte1-2.fna&oh=00_AfDadWxxS1qyXiRkNPBHCKBtRxTyWB8jP-OSoSUlzpfyCA&oe=65D1F10D)https://scontent.fvte1-2.fna.fbcdn.net/v/t39.30808-6/407699041_1333968507235545_3650965651878536950_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=524774&_nc_eui2=AeHnasgzo5lAk9hNupZLhUfztZqyWyFcbOe1mrJbIVxs5zkTtsygM2W08AKDeIzdl9oV3CkR7h8KMlz2mgH28P-I&_nc_ohc=ZFHpYg_wTSwAX9QqARx&_nc_ht=scontent.fvte1-2.fna&oh=00_AfDadWxxS1qyXiRkNPBHCKBtRxTyWB8jP-OSoSUlzpfyCA&oe=65D1F10D" height="50" width="210" alt="2221222001813 (BCEL-ONE) " /></a></p><br><br>
